@@ -49,7 +49,7 @@
 print("CLASS ATTENDANCE REGISTER")
 attendance = input("Have you registered or not?")
 while (attendance == 'no'):
-    username = input("Enter your name")
+    username = input("Enter your name") 
 
 #print("A Number")
 #Number = int (input("Enter a number"))
